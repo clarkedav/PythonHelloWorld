@@ -11,7 +11,7 @@ itself is straightforward, the purpose is to establish a working development
 environment, practice the GitHub publishing workflow, and set the foundation 
 for more complex projects this semester.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gTP7QnfAOjA)
 
 # Development Environment
 
